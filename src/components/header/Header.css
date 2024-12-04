@@ -1,0 +1,9 @@
+.header-tittle{
+    font-weight:bold;
+    color: white;
+    margin-bottom: 1rem;
+}
+.header-font{
+    font-size: 2rem;
+    font-family: "Gill Sans ,sans-serif";
+}
